@@ -4,4 +4,4 @@ Institution: University of Cape Town, South Africa.
 Department: Department of Electrical Engineering
 Date: 27 October 2021
 
-This folder contains the Microsoft Access database file for project.
+This folder contains the Microsoft Access database file for the project.
