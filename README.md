@@ -1,6 +1,7 @@
 # Final-Year-Research-Project
 
-The folder's here are the resources to completing the project: Design and Implement a SCADA system for the Control lab Flotation Process.
+The different directories in this folder are the resources to completing the project: Design and Implement a SCADA system for the Control lab Flotation Process.
+The second .txt file includes a link to the YouTube video for the project's demonstration.
 
 Project: Design & Implementation of a SCADA system for the Control lab Flotation Process.
 Author: Lwando Kewute, Final Year Mechatronics Student
